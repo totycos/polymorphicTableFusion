@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  investor: one
+  investor_type: Investor
+  product: one
+  category: one
+  balance: 9.99
+  status: MyString
+  transaction_type: MyString
+
+two:
+  investor: two
+  investor_type: Investor
+  product: two
+  category: two
+  balance: 9.99
+  status: MyString
+  transaction_type: MyString
